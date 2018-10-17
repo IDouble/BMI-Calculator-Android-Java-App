@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.binarycalculator.ayidouble.binarycalculator">
+    package="com.bmicalculator.ayidouble.bmicalculator">
 
     <uses-feature
         android:name="android.hardware.touchscreen"
@@ -17,7 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.bmicalculator.ayidouble.bmicalculator.MainActivity"
             android:banner="@drawable/app_icon_your_company"
             android:icon="@drawable/app_icon_your_company"
             android:label="@string/app_name"
@@ -29,9 +29,9 @@
                 <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DetailsActivity" />
-        <activity android:name=".PlaybackActivity" />
-        <activity android:name=".BrowseErrorActivity" />
+        <activity android:name="com.bmicalculator.ayidouble.bmicalculator.DetailsActivity" />
+        <activity android:name="com.bmicalculator.ayidouble.bmicalculator.PlaybackActivity" />
+        <activity android:name="com.bmicalculator.ayidouble.bmicalculator.BrowseErrorActivity" />
     </application>
 
 </manifest>

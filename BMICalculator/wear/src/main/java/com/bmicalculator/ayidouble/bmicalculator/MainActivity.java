@@ -1,10 +1,9 @@
-package com.binarycalculator.ayidouble.binarycalculator;
+package com.bmicalculator.ayidouble.bmicalculator;
 
 import android.os.Bundle;
 import android.support.wearable.activity.WearableActivity;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.widget.TextView;
 
 public class MainActivity extends WearableActivity {
 

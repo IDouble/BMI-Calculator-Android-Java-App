@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Binary Calculator</string>
+    <string name="app_name">BMI Calculator</string>
     <string name="browse_title"><![CDATA[Videos by Your Company]]></string>
     <string name="related_movies">Related Videos</string>
     <string name="grid_view">Grid View</string>

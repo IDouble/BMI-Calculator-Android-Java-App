@@ -11,7 +11,7 @@
  * or implied. See the License for the specific language governing permissions and limitations under
  * the License.
  */
-package com.binarycalculator.ayidouble.binarycalculator;
+package com.bmicalculator.ayidouble.bmicalculator;
 
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;

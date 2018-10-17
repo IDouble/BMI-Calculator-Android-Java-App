@@ -12,7 +12,7 @@
  * the License.
  */
 
-package com.binarycalculator.ayidouble.binarycalculator;
+package com.bmicalculator.ayidouble.bmicalculator;
 
 import android.support.v17.leanback.widget.AbstractDetailsDescriptionPresenter;
 

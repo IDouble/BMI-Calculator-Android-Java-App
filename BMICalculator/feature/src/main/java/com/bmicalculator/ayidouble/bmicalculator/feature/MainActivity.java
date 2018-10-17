@@ -1,4 +1,4 @@
-package com.binarycalculator.ayidouble.binarycalculator.feature;
+package com.bmicalculator.ayidouble.bmicalculator.feature;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

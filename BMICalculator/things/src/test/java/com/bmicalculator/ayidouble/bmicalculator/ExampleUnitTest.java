@@ -1,4 +1,4 @@
-package com.binarycalculator.ayidouble.binarycalculator;
+package com.bmicalculator.ayidouble.bmicalculator;
 
 import org.junit.Test;
 

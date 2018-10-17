@@ -7,7 +7,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.binarycalculator.ayidouble.binarycalculator.app"
+        applicationId "com.bmicalculator.ayidouble.bmicalculator.app"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1

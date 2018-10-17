@@ -12,7 +12,7 @@
  * the License.
  */
 
-package com.binarycalculator.ayidouble.binarycalculator;
+package com.bmicalculator.ayidouble.bmicalculator;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
