@@ -34,6 +34,6 @@ public class MainActivity extends Activity {
         webView = (WebView)findViewById(R.id.BinaryCalculatorWebView);
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        webView.loadUrl("https://ayidouble.github.io/Binary-Calculator-JavaScript/");
+        webView.loadUrl("https://ayidouble.github.io/BMI-Calculator-JavaScript/");
     }
 }
