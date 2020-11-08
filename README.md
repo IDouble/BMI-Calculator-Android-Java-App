@@ -1,5 +1,7 @@
 # [📱 BMI Calculator Android Java App 📱](https://play.google.com/store/apps/details?id=com.bmicalculator.ayidouble.bmicalculator.app)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAYIDouble%2FBMI-Calculator-Android-Java-App&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 **Official Google Play Store Download Link** : **[https://play.google.com/store/apps/details?id=com.bmicalculator.ayidouble.bmicalculator.app](https://play.google.com/store/apps/details?id=com.bmicalculator.ayidouble.bmicalculator.app)**
 
 A handy **Calculator** to calculate your **BMI (Body Mass Index)**, that works on **all devices**. 📱 💻 🖥
