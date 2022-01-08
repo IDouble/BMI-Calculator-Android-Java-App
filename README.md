@@ -1,11 +1,11 @@
-# [📱 BMI Calculator Android Java App 📱](https://play.google.com/store/apps/details?id=com.bmicalculator.ayidouble.bmicalculator.app)
+# [📱 BMI Calculator Android Java App 📱](https://ayidouble.github.io/BMI-Calculator-JavaScript)
 
 A handy **Calculator** to calculate your **BMI (Body Mass Index)**, that works on **all devices**. 📱 💻 🖥
 
 Feel free to use the **Calculator** to calculate your BMI (Body Mass Index).
 If you have Suggestions or find Errors, you're free to contact me on GitHub or submit your changes.
 The Reason why I build this **Calculator** was, because there wasn't a good one on the Web.
-## [📱 FREE Download Google Play Store: 📱](https://play.google.com/store/apps/details?id=com.bmicalculator.ayidouble.bmicalculator.app)
+## [📱 FREE Download Google Play Store: 📱](https://ayidouble.github.io/BMI-Calculator-JavaScript)
 ![Free Google Play Store Binary Calculator Addition Subtraction Multiplication Division NOT AND OR XOR Mobile (Smartphone)](Images/BMI-Calculator-Google-Play.png)
 
 ## [📱 Mobile (Smartphone): 📱](https://ayidouble.github.io/BMI-Calculator-JavaScript)
